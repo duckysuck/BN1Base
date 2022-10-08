@@ -6,7 +6,7 @@ This set is intended for testers and developers working as part of the ECRP Team
 
 # This server requires **gamebuild 2189 (Cayo Perico) or higher**, as there are DLC dependencies.
 
-You can join the [ECRP Discord](https://discord.gg/MKzzKKxFv8) and chat to the **team** about ideas, bugs and praising the good work!
+You can join the [ECRP Discord](https://discord.gg/jA4z4er4Ad) and chat to the **team** about ideas, bugs and praising the good work!
 
 This is by all means a **"work in progress"** base, and our first launched city, so be nice!
 
