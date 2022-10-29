@@ -1,0 +1,18 @@
+--Name: jail_break | 2022-10-26T22:27:47Z
+BoxZone:Create(vector3(1829.77, 2593.5, 45.95), 0.6, 1, {
+  name="jail_break",
+  heading=91,
+  --debugPoly=true,
+  minZ=42.75,
+  maxZ=46.75
+})
+
+--Name: timeleft | 2022-10-26T22:39:02Z
+BoxZone:Create(vector3(1712.08, 2564.47, 45.56), 1.2, 2, {
+  name="timeleft",
+  heading=5,
+  --debugPoly=true,
+  minZ=44.56,
+  maxZ=47.56
+})
+
