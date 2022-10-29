@@ -10,12 +10,10 @@ db/default/MANIFEST-000001
 db/default/OPTIONS-000005
 ECRP.session.sql
 admins.cfg
-[mlo1]/
-[mlo2]/
-[mlo3]/
-[housing]/
-toasty/
 resources/[mlo2]
 resources/[mlo3]
 resources/[gui]/toasty
 resources/[vehicles]
+resources/[housing]
+resources/[inv]/wasabi_boombox
+resources/[core]/npwd
