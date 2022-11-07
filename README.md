@@ -40,19 +40,19 @@ Read ALL steps BEFORE following them. Do not assume or skip any step.
 
 - 1 ) Install Xampp and start the mysql server (if you see red text its not worked!)
 - 2 ) Ensure you have opened the port listed in the control panel (3306 by default)
-- 3) Create a new directory (for example C:\FXServer\server), this will be used for the server binaries.
-- 4) Download the current server files - Recommended master branch build for Windows from the Windows server build listing.
+- 3 ) Create a new directory (for example C:\FXServer\server), this will be used for the server binaries.
+- 4 ) Download the current server files - Recommended master branch build for Windows from the Windows server build listing.
   https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/
-- 5) Extract the build into the directory previously created.
-- 6) Use any third-party archiving tool (such as WinRAR or 7-Zip) to open the .7z file.
-- 7) Download The 'Base' folder and contents from here.
-- 8) Load the included sql file (Base/DBfirstload.sql) into your database.
-- 9) Create yourself a serverlicense key here - https://keymaster.fivem.net/ (keep it handy!)
-- 10) Edit the server.cfg file and add the license key and ensure the database name is correct.
-- 11) Run the C:\FXSERVER\server\fxserver.exe to launch the server install process
-- 12) When it asks what type of install you want, selet local files and point it to the Base folder where server.cfg is stored
-- 13) click next a few times and watch the console menu the first time the server starts
-- 14) when its finished, click restart and it should not have any errors
+- 5 ) Extract the build into the directory previously created.
+- 6 ) Use any third-party archiving tool (such as WinRAR or 7-Zip) to open the .7z file.
+- 7 ) Download The 'Base' folder and contents from here.
+- 8 ) Load the included sql file (Base/DBfirstload.sql) into your database.
+- 9 ) Create yourself a serverlicense key here - https://keymaster.fivem.net/ (keep it handy!)
+- 10 ) Edit the server.cfg file and add the license key and ensure the database name is correct.
+- 11 ) Run the C:\FXSERVER\server\fxserver.exe to launch the server install process
+- 12 ) When it asks what type of install you want, selet local files and point it to the Base folder where server.cfg is stored
+- 13 ) click next a few times and watch the console menu the first time the server starts
+- 14 ) when its finished, click restart and it should not have any errors
 
 ----------
 # Critical Points :
